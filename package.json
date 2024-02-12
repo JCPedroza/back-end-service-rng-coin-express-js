@@ -1,11 +1,8 @@
 {
   "name": "rng-coin",
   "version": "0.0.1",
-  "description": "",
+  "description": "Coin-flipping service.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "JCPedroza",
   "license": "MIT",
   "dependencies": {
